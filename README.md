@@ -10,6 +10,20 @@ We help educational institutions plan and develop digital student management sol
 
 Whether you manage a school, college, coaching centre, or a multi-branch educational organisation, we can develop a student management system tailored to your operational requirements.
 
+<!-- screenshots -->
+## Screenshots
+
+**Dashboard**
+
+![Dashboard](screenshots/1-dashboard.png)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Students</b><br><br><img src="screenshots/2-students.png" alt="Students"></td>
+    <td align="center" width="50%"><b>Profile</b><br><br><img src="screenshots/3-profile.png" alt="Profile"></td>
+  </tr>
+</table>
+
 ## What Is a Student Management System?
 
 A Student Management System (SMS), also known as a Student Information System (SIS), is software designed to manage and organise student information throughout the academic lifecycle.
@@ -323,17 +337,3 @@ This repository showcases Naya Prayog Technologies' student management software 
 For customisation, pricing, implementation, or integration enquiries, contact our team.
 
 **Note:** This repository is a proprietary service and solution showcase. It does not grant permission to redistribute, resell, or commercially use Naya Prayog Technologies' proprietary materials or intellectual property.
-
-<!-- screenshots -->
-## Screenshots
-
-**Dashboard**
-
-![Dashboard](screenshots/1-dashboard.png)
-
-<table>
-  <tr>
-    <td align="center" width="50%"><b>Students</b><br><br><img src="screenshots/2-students.png" alt="Students"></td>
-    <td align="center" width="50%"><b>Profile</b><br><br><img src="screenshots/3-profile.png" alt="Profile"></td>
-  </tr>
-</table>
