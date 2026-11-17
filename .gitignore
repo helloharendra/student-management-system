@@ -27,3 +27,9 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# React + Vite demo: these .js files are source code (override the Dart "*.js" rule above)
+!*.config.js
+!src/**/*.js
+node_modules/
+dist/

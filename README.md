@@ -323,3 +323,17 @@ This repository showcases Naya Prayog Technologies' student management software 
 For customisation, pricing, implementation, or integration enquiries, contact our team.
 
 **Note:** This repository is a proprietary service and solution showcase. It does not grant permission to redistribute, resell, or commercially use Naya Prayog Technologies' proprietary materials or intellectual property.
+
+<!-- screenshots -->
+## Screenshots
+
+**Dashboard**
+
+![Dashboard](screenshots/1-dashboard.png)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Students</b><br><br><img src="screenshots/2-students.png" alt="Students"></td>
+    <td align="center" width="50%"><b>Profile</b><br><br><img src="screenshots/3-profile.png" alt="Profile"></td>
+  </tr>
+</table>
